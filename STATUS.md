@@ -1,8 +1,8 @@
 # Estado del laboratorio
 
-- Actualizado: 2026-10-15 22:30 UTC
-- Variantes probadas en total: **2,008,396** en 10 ejecuciones
-- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **2.3**
+- Actualizado: 2026-10-16 05:39 UTC
+- Variantes probadas en total: **2,192,268** en 11 ejecuciones
+- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **2.6**
 
 Todo esto es simulación. Que algo se vea bien aquí NO significa que gane dinero real.
 
