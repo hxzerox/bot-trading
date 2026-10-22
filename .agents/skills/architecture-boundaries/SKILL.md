@@ -1,23 +1,23 @@
 ---
 name: architecture-boundaries
-description: Use when planning or changing this project, adding a market, broker, chat, voice or home-automation integration, or deciding where code should live.
+description: Usar al planear o cambiar este proyecto, añadir una integración de mercado, bróker, chat, voz o domótica, o decidir dónde debe vivir el código.
 ---
 
-# Architecture boundaries
+# Límites de arquitectura
 
-## Keep the design understandable
+## Mantén el diseño entendible
 
-- Separate assistant conversation, channel adapters, connectors, domain rules, market research, risk checks, execution and storage.
-- Define small interfaces for external services so one vendor can be replaced without rewriting strategy logic.
-- Normalize external data at connector boundaries and validate it before domain code uses it.
-- Keep credentials and network calls out of strategy calculation modules.
-- Make order execution a separately configured service; use read-only or paper mode by default.
-- Record consequential actions and their approval in an audit trail.
+- Separa conversación del asistente, adaptadores de canales, conectores, reglas de dominio, investigación de mercado, controles de riesgo, ejecución y almacenamiento.
+- Define interfaces pequeñas para los servicios externos, así podrás cambiar un proveedor sin rehacer la lógica de estrategias.
+- Normaliza los datos externos en los límites de cada conector y valídalos antes de usarlos.
+- Mantén credenciales y llamadas de red fuera de los módulos que calculan estrategias.
+- Configura la ejecución de órdenes como un servicio separado; usa solo lectura o simulación por defecto.
+- Registra las acciones importantes y la aprobación correspondiente en una bitácora.
 
-## Repository changes
+## Cambios en el repositorio
 
-- Inspect existing conventions before adding folders, dependencies or workflows.
-- Prefer a small, complete change over a broad rewrite or framework collection.
-- Document new external services, required configuration and failure behavior.
-- Do not add secrets, automatic live-trading workflows or unattended deployments.
-- Keep this repository's research lab distinct from the future Jarvis runtime. Link to a separate service rather than coupling the assistant to strategy internals.
+- Revisa las convenciones existentes antes de añadir carpetas, dependencias o flujos de trabajo.
+- Prefiere un cambio pequeño y completo a una reescritura amplia o a añadir frameworks sin necesidad.
+- Documenta los servicios externos nuevos, su configuración y qué pasa cuando fallan.
+- No añadas secretos, flujos automáticos de trading real ni despliegues desatendidos.
+- Mantén este laboratorio de investigación separado del futuro servicio Jarvis. Conéctalos mediante una interfaz, sin acoplar el asistente a la lógica interna de estrategias.
