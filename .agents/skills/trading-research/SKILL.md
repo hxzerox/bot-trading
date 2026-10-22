@@ -1,28 +1,28 @@
 ---
 name: trading-research
-description: Use when exploring, explaining, comparing or reviewing trading strategies, crypto or equities market data, backtests or paper-trading results. Do not use this skill to place live orders.
+description: Usar al explorar, explicar, comparar o revisar estrategias, datos de mercado de cripto o acciones, backtests o paper trading. No usar para colocar órdenes reales.
 ---
 
-# Trading research
+# Investigación de trading
 
-## Goals
+## Objetivo
 
-Give clear, reproducible analysis. Separate observations from assumptions and never describe a backtest as a promise of future performance.
+Producir análisis claro y reproducible. Separa observaciones de supuestos y nunca presentes un backtest como promesa de resultados futuros.
 
-## Review checklist
+## Lista de revisión
 
-- Identify the data source, asset, timeframe, date range, timezone and missing-data treatment.
-- Check whether the strategy was selected using the same data used to report its results. Prefer a genuinely unseen out-of-sample period and walk-forward analysis.
-- Include realistic fees, spread, slippage, liquidity constraints and funding/borrow costs when relevant.
-- Compare with a simple benchmark such as buy-and-hold and a cash baseline.
-- Report number of trades, exposure, drawdown, volatility and uncertainty along with returns. Small samples are inconclusive.
-- Check survivorship bias, look-ahead leakage, repeated parameter search and data snooping.
-- Show assumptions and enough steps to reproduce calculations. Do not hide losing assets or inactive periods.
+- Identifica la fuente de datos, el activo, el intervalo, el periodo, la zona horaria y el tratamiento de datos faltantes.
+- Comprueba si se eligió la estrategia usando los mismos datos con los que se muestran los resultados. Prefiere periodos fuera de muestra y análisis walk-forward.
+- Incluye comisiones, diferencial, deslizamiento, liquidez y costos de financiación o préstamo cuando corresponda.
+- Compara con una referencia sencilla, como comprar y mantener, y una alternativa en efectivo.
+- Informa número de operaciones, exposición, drawdown, volatilidad e incertidumbre además del rendimiento. Las muestras pequeñas no permiten conclusiones firmes.
+- Busca sesgo de supervivencia, filtración de información futura, demasiadas búsquedas de parámetros y selección sesgada de datos.
+- Explica los supuestos y cómo reproducir los cálculos. No ocultes activos con pérdidas ni periodos sin actividad.
 
-## Safety rules
+## Reglas de seguridad
 
-- Default to read-only analysis, backtesting or paper trading.
-- Never call a live order endpoint, request a seed phrase, or put secrets in source files, logs or a report.
-- Never assume a risk percentage from a prior experiment is appropriate. Surface position sizing and loss limits for review.
-- Escalate live execution as a separate product decision requiring independent risk controls and explicit human confirmation.
-- State plainly when data is insufficient. Do not call a strategy profitable based only on an in-sample score.
+- Usa por defecto análisis de solo lectura, backtesting o paper trading.
+- No llames endpoints de órdenes reales, no pidas frases semilla y no pongas secretos en archivos, registros o informes.
+- No supongas que un porcentaje de riesgo de un experimento anterior es apropiado. Expón el tamaño de posición y los límites de pérdida para revisión.
+- Trata la ejecución real como una decisión separada que requiere controles de riesgo independientes y confirmación humana explícita.
+- Di claramente cuando los datos no bastan. No declares rentable una estrategia basándote solo en un resultado dentro de muestra.
