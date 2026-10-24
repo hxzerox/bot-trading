@@ -1,8 +1,8 @@
 # Estado del laboratorio
 
-- Actualizado: 2026-10-24 17:03 UTC
-- Variantes probadas en total: **9,882,846** en 44 ejecuciones
-- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **11.1**
+- Actualizado: 2026-10-24 21:57 UTC
+- Variantes probadas en total: **10,127,605** en 45 ejecuciones
+- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **11.2**
 
 Todo esto es simulación. Que algo se vea bien aquí NO significa que gane dinero real.
 
@@ -16,10 +16,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | +0.0% | -4.4% | 0 |
-| ETH | +0.0% | -8.3% | 0 |
-| SOL | +0.0% | -7.1% | 0 |
-| BNB | +0.0% | -3.0% | 0 |
+| BTC | +0.0% | -3.5% | 0 |
+| ETH | +0.0% | -7.0% | 0 |
+| SOL | +0.0% | -5.8% | 0 |
+| BNB | +0.0% | -1.9% | 0 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -33,10 +33,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | +0.0% | -4.4% | 0 |
-| ETH | +0.0% | -8.3% | 0 |
-| SOL | +0.0% | -7.1% | 0 |
-| BNB | +0.0% | -3.0% | 0 |
+| BTC | +0.0% | -3.5% | 0 |
+| ETH | +0.0% | -7.0% | 0 |
+| SOL | +0.0% | -5.8% | 0 |
+| BNB | +0.0% | -1.9% | 0 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -50,10 +50,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | +0.0% | -4.4% | 0 |
-| ETH | +0.0% | -8.3% | 0 |
-| SOL | +0.0% | -7.1% | 0 |
-| BNB | +0.0% | -3.0% | 0 |
+| BTC | +0.0% | -3.5% | 0 |
+| ETH | +0.0% | -7.0% | 0 |
+| SOL | +0.0% | -5.8% | 0 |
+| BNB | +0.0% | -1.9% | 0 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
