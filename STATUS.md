@@ -1,8 +1,8 @@
 # Estado del laboratorio
 
-- Actualizado: 2026-10-26 23:46 UTC
-- Variantes probadas en total: **11,713,997** en 52 ejecuciones
-- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **13.3**
+- Actualizado: 2026-10-27 06:14 UTC
+- Variantes probadas en total: **11,906,268** en 53 ejecuciones
+- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **13.6**
 
 Todo esto es simulación. Que algo se vea bien aquí NO significa que gane dinero real.
 
@@ -16,10 +16,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | +0.0% | -4.0% | 0 |
-| ETH | +0.0% | -8.2% | 0 |
-| SOL | +0.0% | -6.4% | 0 |
-| BNB | +0.0% | -0.1% | 0 |
+| BTC | +0.0% | -4.4% | 0 |
+| ETH | +0.0% | -8.1% | 0 |
+| SOL | +0.0% | -6.8% | 0 |
+| BNB | +0.0% | -0.9% | 0 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -33,10 +33,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | +0.0% | -4.0% | 0 |
-| ETH | +0.0% | -8.2% | 0 |
-| SOL | +0.0% | -6.4% | 0 |
-| BNB | +0.0% | -0.1% | 0 |
+| BTC | +0.0% | -4.4% | 0 |
+| ETH | +0.0% | -8.1% | 0 |
+| SOL | +0.0% | -6.8% | 0 |
+| BNB | +0.0% | -0.9% | 0 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -50,10 +50,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | +0.0% | -4.0% | 0 |
-| ETH | +0.0% | -8.2% | 0 |
-| SOL | +0.0% | -6.4% | 0 |
-| BNB | +0.0% | -0.1% | 0 |
+| BTC | +0.0% | -4.4% | 0 |
+| ETH | +0.0% | -8.1% | 0 |
+| SOL | +0.0% | -6.8% | 0 |
+| BNB | +0.0% | -0.9% | 0 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
