@@ -1,8 +1,8 @@
 # Estado del laboratorio
 
-- Actualizado: 2026-10-27 13:21 UTC
-- Variantes probadas en total: **12,156,425** en 54 ejecuciones
-- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **13.9**
+- Actualizado: 2026-10-27 23:22 UTC
+- Variantes probadas en total: **12,354,782** en 55 ejecuciones
+- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **14.3**
 
 Todo esto es simulación. Que algo se vea bien aquí NO significa que gane dinero real.
 
@@ -16,12 +16,12 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | +0.0% | -4.2% | 0 |
-| ETH | +0.0% | -8.0% | 0 |
-| SOL | +0.0% | -6.8% | 0 |
-| BNB | +0.0% | -0.5% | 0 |
+| BTC | +0.0% | -3.0% | 0 |
+| ETH | +0.0% | -6.6% | 0 |
+| SOL | +0.0% | -5.6% | 0 |
+| BNB | +0.0% | +0.4% | 0 |
 
-Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
+Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 3. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
 ## Finalista 2
 
@@ -33,12 +33,12 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | +0.0% | -4.2% | 0 |
-| ETH | +0.0% | -8.0% | 0 |
-| SOL | +0.0% | -6.8% | 0 |
-| BNB | +0.0% | -0.5% | 0 |
+| BTC | +0.0% | -3.0% | 0 |
+| ETH | +0.0% | -6.6% | 0 |
+| SOL | +0.0% | -5.6% | 0 |
+| BNB | +0.0% | +0.4% | 0 |
 
-Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
+Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 3. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
 ## Finalista 3
 
@@ -50,10 +50,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | +0.0% | -4.2% | 0 |
-| ETH | +0.0% | -8.0% | 0 |
-| SOL | +0.0% | -6.8% | 0 |
-| BNB | +0.0% | -0.5% | 0 |
+| BTC | +0.0% | -3.0% | 0 |
+| ETH | +0.0% | -6.6% | 0 |
+| SOL | +0.0% | -5.6% | 0 |
+| BNB | +0.0% | +0.4% | 0 |
 
-Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
+Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 3. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
