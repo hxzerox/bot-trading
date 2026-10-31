@@ -1,8 +1,8 @@
 # Estado del laboratorio
 
-- Actualizado: 2026-10-31 06:53 UTC
-- Variantes probadas en total: **14,540,781** en 65 ejecuciones
-- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **17.6**
+- Actualizado: 2026-10-31 13:43 UTC
+- Variantes probadas en total: **14,729,454** en 66 ejecuciones
+- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **17.9**
 
 Todo esto es simulación. Que algo se vea bien aquí NO significa que gane dinero real.
 
@@ -16,10 +16,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -7.5% | 1 |
-| ETH | +0.0% | -11.0% | 0 |
-| SOL | +0.0% | -10.8% | 0 |
-| BNB | -3.7% | -5.6% | 1 |
+| BTC | -3.3% | -7.0% | 1 |
+| ETH | +0.0% | -10.6% | 0 |
+| SOL | +0.0% | -10.7% | 0 |
+| BNB | -3.7% | -5.2% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -33,10 +33,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -7.5% | 1 |
-| ETH | +0.0% | -11.0% | 0 |
-| SOL | +0.0% | -10.8% | 0 |
-| BNB | -3.7% | -5.6% | 1 |
+| BTC | -3.3% | -7.0% | 1 |
+| ETH | +0.0% | -10.6% | 0 |
+| SOL | +0.0% | -10.7% | 0 |
+| BNB | -3.7% | -5.2% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -50,10 +50,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -7.5% | 1 |
-| ETH | +0.0% | -11.0% | 0 |
-| SOL | +0.0% | -10.8% | 0 |
-| BNB | -3.7% | -5.6% | 1 |
+| BTC | -3.3% | -7.0% | 1 |
+| ETH | +0.0% | -10.6% | 0 |
+| SOL | +0.0% | -10.7% | 0 |
+| BNB | -3.7% | -5.2% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
