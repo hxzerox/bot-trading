@@ -1,8 +1,8 @@
 # Estado del laboratorio
 
-- Actualizado: 2026-11-01 23:08 UTC
-- Variantes probadas en total: **15,895,650** en 70 ejecuciones
-- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **19.3**
+- Actualizado: 2026-11-02 07:20 UTC
+- Variantes probadas en total: **16,088,027** en 71 ejecuciones
+- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **19.7**
 
 Todo esto es simulación. Que algo se vea bien aquí NO significa que gane dinero real.
 
@@ -16,10 +16,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -6.6% | 1 |
-| ETH | +0.0% | -10.0% | 0 |
-| SOL | +0.0% | -12.1% | 0 |
-| BNB | -3.7% | -4.8% | 1 |
+| BTC | -3.3% | -6.1% | 1 |
+| ETH | +0.0% | -8.9% | 0 |
+| SOL | +0.0% | -11.6% | 0 |
+| BNB | -3.7% | -4.5% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -33,10 +33,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -6.6% | 1 |
-| ETH | +0.0% | -10.0% | 0 |
-| SOL | +0.0% | -12.1% | 0 |
-| BNB | -3.7% | -4.8% | 1 |
+| BTC | -3.3% | -6.1% | 1 |
+| ETH | +0.0% | -8.9% | 0 |
+| SOL | +0.0% | -11.6% | 0 |
+| BNB | -3.7% | -4.5% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -50,10 +50,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -6.6% | 1 |
-| ETH | +0.0% | -10.0% | 0 |
-| SOL | +0.0% | -12.1% | 0 |
-| BNB | -3.7% | -4.8% | 1 |
+| BTC | -3.3% | -6.1% | 1 |
+| ETH | +0.0% | -8.9% | 0 |
+| SOL | +0.0% | -11.6% | 0 |
+| BNB | -3.7% | -4.5% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
