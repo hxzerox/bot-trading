@@ -1,8 +1,8 @@
 # Estado del laboratorio
 
-- Actualizado: 2026-11-09 23:29 UTC
-- Variantes probadas en total: **20,224,021** en 89 ejecuciones
-- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **27.3**
+- Actualizado: 2026-11-10 08:27 UTC
+- Variantes probadas en total: **20,562,137** en 90 ejecuciones
+- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **27.7**
 
 Todo esto es simulación. Que algo se vea bien aquí NO significa que gane dinero real.
 
@@ -16,10 +16,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -10.1% | 1 |
-| ETH | -5.0% | -15.4% | 1 |
-| SOL | +0.0% | -19.5% | 0 |
-| BNB | -3.7% | -7.2% | 1 |
+| BTC | -3.3% | -10.5% | 1 |
+| ETH | -5.0% | -15.8% | 1 |
+| SOL | +0.0% | -19.8% | 0 |
+| BNB | -3.7% | -7.3% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -33,10 +33,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -10.1% | 1 |
-| ETH | -5.0% | -15.4% | 1 |
-| SOL | +0.0% | -19.5% | 0 |
-| BNB | -3.7% | -7.2% | 1 |
+| BTC | -3.3% | -10.5% | 1 |
+| ETH | -5.0% | -15.8% | 1 |
+| SOL | +0.0% | -19.8% | 0 |
+| BNB | -3.7% | -7.3% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -50,10 +50,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -10.1% | 1 |
-| ETH | -5.0% | -15.4% | 1 |
-| SOL | +0.0% | -19.5% | 0 |
-| BNB | -3.7% | -7.2% | 1 |
+| BTC | -3.3% | -10.5% | 1 |
+| ETH | -5.0% | -15.8% | 1 |
+| SOL | +0.0% | -19.8% | 0 |
+| BNB | -3.7% | -7.3% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
