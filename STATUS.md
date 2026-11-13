@@ -1,8 +1,8 @@
 # Estado del laboratorio
 
-- Actualizado: 2026-11-13 07:53 UTC
-- Variantes probadas en total: **21,950,258** en 96 ejecuciones
-- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **30.7**
+- Actualizado: 2026-11-13 20:50 UTC
+- Variantes probadas en total: **22,199,465** en 97 ejecuciones
+- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **31.2**
 
 Todo esto es simulación. Que algo se vea bien aquí NO significa que gane dinero real.
 
@@ -16,10 +16,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -18.3% | 1 |
-| ETH | -5.0% | -24.0% | 1 |
-| SOL | +0.0% | -26.9% | 0 |
-| BNB | -3.7% | -15.9% | 1 |
+| BTC | -3.3% | -17.3% | 1 |
+| ETH | -5.0% | -22.7% | 1 |
+| SOL | +0.0% | -25.4% | 0 |
+| BNB | -3.7% | -14.4% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -33,10 +33,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -18.3% | 1 |
-| ETH | -5.0% | -24.0% | 1 |
-| SOL | +0.0% | -26.9% | 0 |
-| BNB | -3.7% | -15.9% | 1 |
+| BTC | -3.3% | -17.3% | 1 |
+| ETH | -5.0% | -22.7% | 1 |
+| SOL | +0.0% | -25.4% | 0 |
+| BNB | -3.7% | -14.4% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -50,10 +50,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -18.3% | 1 |
-| ETH | -5.0% | -24.0% | 1 |
-| SOL | +0.0% | -26.9% | 0 |
-| BNB | -3.7% | -15.9% | 1 |
+| BTC | -3.3% | -17.3% | 1 |
+| ETH | -5.0% | -22.7% | 1 |
+| SOL | +0.0% | -25.4% | 0 |
+| BNB | -3.7% | -14.4% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
