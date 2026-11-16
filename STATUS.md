@@ -1,8 +1,8 @@
 # Estado del laboratorio
 
-- Actualizado: 2026-11-15 19:57 UTC
-- Variantes probadas en total: **23,372,030** en 102 ejecuciones
-- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **33.2**
+- Actualizado: 2026-11-16 07:41 UTC
+- Variantes probadas en total: **23,610,661** en 103 ejecuciones
+- Datos de selección hasta: 2026-10-13 | días de datos NUEVOS desde entonces: **33.7**
 
 Todo esto es simulación. Que algo se vea bien aquí NO significa que gane dinero real.
 
@@ -16,10 +16,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -22.6% | 1 |
+| BTC | -3.3% | -22.7% | 1 |
 | ETH | -5.0% | -27.9% | 1 |
-| SOL | +0.0% | -33.5% | 0 |
-| BNB | -3.7% | -20.6% | 1 |
+| SOL | +0.0% | -33.7% | 0 |
+| BNB | -3.7% | -20.7% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -33,10 +33,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -22.6% | 1 |
+| BTC | -3.3% | -22.7% | 1 |
 | ETH | -5.0% | -27.9% | 1 |
-| SOL | +0.0% | -33.5% | 0 |
-| BNB | -3.7% | -20.6% | 1 |
+| SOL | +0.0% | -33.7% | 0 |
+| BNB | -3.7% | -20.7% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
@@ -50,10 +50,10 @@ Con datos NUEVOS (que nunca se usaron para elegir):
 
 | Moneda | Estrategia | Comprar y mantener | Operaciones |
 |---|---|---|---|
-| BTC | -3.3% | -22.6% | 1 |
+| BTC | -3.3% | -22.7% | 1 |
 | ETH | -5.0% | -27.9% | 1 |
-| SOL | +0.0% | -33.5% | 0 |
-| BNB | -3.7% | -20.6% | 1 |
+| SOL | +0.0% | -33.7% | 0 |
+| BNB | -3.7% | -20.7% | 1 |
 
 Ganó dinero en 0 de 4 monedas y le ganó a comprar y mantener en 4. Con menos de ~60 días y ~20 operaciones no concluyas nada.
 
